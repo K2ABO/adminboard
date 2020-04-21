@@ -1,0 +1,21 @@
+
+body{
+    background-color: rgb(248, 245, 245);
+    margin: 0;
+    padding: 0;
+}
+nav{
+    border-bottom: 3px rgb(194, 79, 12) solid;
+    background-color: rgba(100, 97, 97, 0.548);
+
+}
+
+header{
+    margin: 0;
+    padding: 0;
+}
+
+.fas {
+    font-size: 2rem;
+    padding-right: 1.2rem;
+}
